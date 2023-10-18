@@ -1,7 +1,7 @@
 # khu-today-server
 [경희의 오늘] Server
 
-경희의 오늘은 Android App, iOS App, macOS, Windows, Linux, Web browser 등을 통해서 접근 가능합니다. <br>
+경희의 오늘은 Android/iOS App, macOS/Windows/Linux Deaktop Software, Web browser 등을 통해서 접근 가능합니다. <br>
 Web browser를 통한 접근은 아래의 링크를 클릭해서 경험할 수 있습니다.  <br>
 [http://opensource.khu.ac.kr/run.html](http://opensource.khu.ac.kr/run.html)  <br>
 
