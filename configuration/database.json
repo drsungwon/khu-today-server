@@ -1,0 +1,28 @@
+{
+    "FIELDS_SIZE" : "5",
+    "FIELDS": [
+        {
+            "FIELD_NAME" : "department_code",
+            "FIELD_TYPE" : "CHAR(8)"
+        },
+        {
+            "FIELD_NAME" : "crawl_time",
+            "FIELD_TYPE" : "CHAR(26)"
+        },
+        {
+            "FIELD_NAME" : "post_title",
+            "FIELD_TYPE" : "VARCHAR(512)"
+        },
+        {
+            "FIELD_NAME" : "post_href",
+            "FIELD_TYPE" : "VARCHAR(1024)"
+        },
+        {
+            "FIELD_NAME" : "aggregate_time",
+            "FIELD_TYPE" : "TIMESTAMP"
+        }
+    ],
+    "PRIMARY_KEY" : "crawl_time",
+    "POST_TITLE_MAX_SIZE" : "512",
+    "POST_HREF_MAX_SIZE" : "1024"
+}

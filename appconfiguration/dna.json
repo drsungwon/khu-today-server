@@ -1,0 +1,747 @@
+{
+    "VERSION_DNA": "20220616A",
+    "VERSION_SERVER_LIST": [
+        "163.180.142.196:9090",
+        "163.180.142.196:9092"
+    ],
+    "LENGTH_DEPARTMENT": "182",
+    "00000001": [
+        "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc",
+        "OFF"
+    ],
+    "00000002": [
+        "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ub300\ud559",
+        "OFF"
+    ],
+    "00000003": [
+        "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc911\uc2ec\ub300\ud559\uc0ac\uc5c5\ub2e8",
+        "OFF"
+    ],
+    "00000004": [
+        "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc.\uc544\uace0\ub77c",
+        "OFF"
+    ],
+    "00000005": [
+        "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000006": [
+        "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80",
+        "OFF"
+    ],
+    "00000007": [
+        "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000008": [
+        "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80.\ud589\uc0ac",
+        "OFF"
+    ],
+    "00000009": [
+        "\uc0b0\uc5c5\uacbd\uc601\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000010": [
+        "\uc0b0\uc5c5\uacbd\uc601\uacf5\ud559\uacfc.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000011": [
+        "\uae30\uacc4\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000012": [
+        "\uae30\uacc4\uacf5\ud559\uacfc.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000013": [
+        "\uc77c\ubcf8\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000014": [
+        "\uc77c\ubcf8\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000015": [
+        "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80",
+        "OFF"
+    ],
+    "00000016": [
+        "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000017": [
+        "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80.\ud589\uc0ac",
+        "OFF"
+    ],
+    "00000018": [
+        "\ud559\uc0dd\ud68c\uad00(\uad6d\uc81c).\ud559\uc0dd\uc2dd\ub2f9",
+        "OFF"
+    ],
+    "00000019": [
+        "\uc6b0\uc815\uc6d0",
+        "OFF"
+    ],
+    "00000020": [
+        "\uc81c2\uae30\uc219\uc0ac",
+        "OFF"
+    ],
+    "00000021": [
+        "\uc911\uc559\ub3c4\uc11c\uad00(\uad6d\uc81c)",
+        "OFF"
+    ],
+    "00000022": [
+        "\uacf5\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "00000023": [
+        "\uacf5\uacfc\ub300\ud559.\ucc44\uc6a9\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000024": [
+        "\uc608\uc220\ub514\uc790\uc778\ub300\ud559",
+        "OFF"
+    ],
+    "00000025": [
+        "\uad6d\uc81c\ub300\ud559",
+        "OFF"
+    ],
+    "00000026": [
+        "\uad6d\uc81c\ub300\ud559.\ucc44\uc6a9.\uc778\ud134.\ud65c\ub3d9",
+        "OFF"
+    ],
+    "00000027": [
+        "\uc751\uc6a9\uacfc\ud559\ub300\ud559",
+        "OFF"
+    ],
+    "00000028": [
+        "\uc751\uc6a9\uacfc\ud559\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000029": [
+        "\uc804\uc790\uc815\ubcf4\ub300\ud559",
+        "OFF"
+    ],
+    "00000030": [
+        "\uc804\uc790\uc815\ubcf4\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000031": [
+        "\uccb4\uc721\ub300\ud559",
+        "OFF"
+    ],
+    "00000032": [
+        "\uccb4\uc721\ub300\ud559.\ucc44\uc6a9\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000033": [
+        "\uc678\uad6d\uc5b4\ub300\ud559",
+        "OFF"
+    ],
+    "00000034": [
+        "\uc678\uad6d\uc5b4\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000035": [
+        "\ub300\ud559\uc8fc\ubcf4.\ud5e4\ub4dc\ub77c\uc778",
+        "OFF"
+    ],
+    "00000036": [
+        "\ub300\ud559\uc8fc\ubcf4.\uae30\ud68d",
+        "OFF"
+    ],
+    "00000037": [
+        "\ub300\ud559\uc8fc\ubcf4.\uc0ac\uc124",
+        "OFF"
+    ],
+    "00000038": [
+        "\ubbf8\ub798\ud601\uc2e0\uc6d0.\ud559\uc0dd\uc9c0\uc6d0\uc13c\ud130(\uc7a5\ud559)",
+        "OFF"
+    ],
+    "00000039": [
+        "\ubbf8\ub798\uc778\uc7ac\uc13c\ud130.\ucc44\uc6a9\uacf5\uace0",
+        "OFF"
+    ],
+    "00000040": [
+        "\ubbf8\ub798\uc778\uc7ac\uc13c\ud130.\ucd94\ucc9c\ucc44\uc6a9",
+        "OFF"
+    ],
+    "00000041": [
+        "\uc0dd\uccb4\uc758\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000042": [
+        "\uc0dd\uccb4\uc758\uacf5\ud559\uacfc.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000043": [
+        "\uc804\uc790\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000044": [
+        "\uc804\uc790\uacf5\ud559\uacfc.\ucde8\uc5c5",
+        "OFF"
+    ],
+    "00000045": [
+        "\uc804\uc790\uacf5\ud559\uacfc.\ud64d\ubcf4\ubc0f\ub300\uc678\ud65c\ub3d9",
+        "OFF"
+    ],
+    "00000046": [
+        "\uc6b0\uc8fc\uacfc\ud559\uacfc",
+        "OFF"
+    ],
+    "00000047": [
+        "\uc6b0\uc8fc\uacfc\ud559\uacfc.\uc7a5\ud559",
+        "OFF"
+    ],
+    "00000048": [
+        "\uc6b0\uc8fc\uacfc\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000049": [
+        "\uc751\uc6a9\uc218\ud559\uacfc",
+        "OFF"
+    ],
+    "00000050": [
+        "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc",
+        "OFF"
+    ],
+    "00000051": [
+        "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc.\uc138\ubbf8\ub098/\ucf5c\ub85c\ud0a4\uc6c0",
+        "OFF"
+    ],
+    "00000052": [
+        "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000053": [
+        "\uc751\uc6a9\ud654\ud559\uacfc",
+        "OFF"
+    ],
+    "00000054": [
+        "\uc751\uc6a9\ud654\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000055": [
+        "\ud6c4\ub9c8\ub2c8\ud0c0\uc2a4\ub300\ud559",
+        "OFF"
+    ],
+    "00000056": [
+        "\ud654\ud559\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000057": [
+        "\ud654\ud559\uacf5\ud559\uacfc.\ucc44\uc6a9\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000058": [
+        "\uc815\ubcf4\uc804\uc790\uc2e0\uc18c\uc7ac\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000059": [
+        "\uc815\ubcf4\uc804\uc790\uc2e0\uc18c\uc7ac\uacf5\ud559\uacfc.\ucde8\uc5c5\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000060": [
+        "\uc0ac\ud68c\uae30\ubc18\uc2dc\uc2a4\ud15c\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000061": [
+        "\uc0ac\ud68c\uae30\ubc18\uc2dc\uc2a4\ud15c\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000062": [
+        "\uac74\ucd95\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000063": [
+        "\uac74\ucd95\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000064": [
+        "\ud658\uacbd\ud559\ubc0f\ud658\uacbd\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000065": [
+        "\ud658\uacbd\ud559\ubc0f\ud658\uacbd\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000066": [
+        "\uac74\ucd95\ud559\uacfc",
+        "OFF"
+    ],
+    "00000067": [
+        "\uac74\ucd95\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000068": [
+        "\uc6d0\uc790\ub825\uacf5\ud559\uacfc",
+        "OFF"
+    ],
+    "00000069": [
+        "\uc6d0\uc790\ub825\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000070": [
+        "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000071": [
+        "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000072": [
+        "\uc911\uad6d\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000073": [
+        "\ud55c\uad6d\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000074": [
+        "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000075": [
+        "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000076": [
+        "\uc911\uad6d\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000077": [
+        "\ud55c\uad6d\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000078": [
+        "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000079": [
+        "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000080": [
+        "\uc911\uad6d\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000081": [
+        "\ud55c\uad6d\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000082": [
+        "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "00000083": [
+        "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "00000084": [
+        "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "00000085": [
+        "\uc2a4\ub9c8\ud2b8\ud31c\ud559\uacfc",
+        "OFF"
+    ],
+    "00000086": [
+        "\uc544\ud2b8\ud4e8\uc804\ub514\uc790\uc778\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "00000087": [
+        "\uccb4\uc721\ub300\ud559\uc6d0.\uc911\uc694\uacf5\uc9c0",
+        "OFF"
+    ],
+    "00000088": [
+        "\uccb4\uc721\ub300\ud559\uc6d0.\uae30\ud0c0\uacf5\uc9c0",
+        "OFF"
+    ],
+    "00000089": [
+        "\ub3d9\uc11c\uc758\ud559\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "00000090": [
+        "\uc77c\ubc18\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "00000091": [
+        "\uad50\ubb34\ucc98-\uad50\uc9c1\ud300",
+        "OFF"
+    ],
+    "00000092": [
+        "\uad6d\uc81c\uad50\uc721\uc6d0",
+        "OFF"
+    ],
+    "00000093": [
+        "\ub300\ud559\uc0dd\ud65c(\ud559\uc0ac)",
+        "OFF"
+    ],
+    "00000094": [
+        "\ub300\ud559\uc0dd\ud65c(\uc77c\ubc18)",
+        "OFF"
+    ],
+    "00000095": [
+        "\ub300\ud559\uc0dd\ud65c(\uc7a5\ud559)",
+        "OFF"
+    ],
+    "00000096": [
+        "\ub300\ud559\uc0dd\ud65c(\uad50\ub0b4\ud559\uc810\uad50\ub958)",
+        "OFF"
+    ],
+    "00000097": [
+        "\ub300\ud559\uc0dd\ud65c(\ud589\uc0ac)",
+        "OFF"
+    ],
+    "00000098": [
+        "\ub300\ud559\uc0dd\ud65c(\ud3ec\ucee4\uc2a4)",
+        "OFF"
+    ],
+    "0S000001": [
+        "\uc911\uc559\ub3c4\uc11c\uad00(\uc11c\uc6b8)",
+        "OFF"
+    ],
+    "0S000002": [
+        "\ubb38\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "0S000003": [
+        "\uad6d\uc5b4\uad6d\ubb38\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000004": [
+        "\uc0ac\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000005": [
+        "\uc601\uc5b4\uc601\ubb38\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000006": [
+        "\uc751\uc6a9\uc601\uc5b4\ud1b5\ubc88\uc5ed\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000007": [
+        "\uc601\uc5b4\uc601\ubb38\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000008": [
+        "\uc751\uc6a9\uc601\uc5b4\ud1b5\ubc88\uc5ed\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000009": [
+        "\uc0ac\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000010": [
+        "\ubb38\uacfc\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000011": [
+        "\ubb38\uacfc\ub300\ud559.\uc7a5\ud559\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000012": [
+        "\ubb38\uacfc\ub300\ud559.\ud559\uc0ac\uc18c\uc2dd",
+        "OFF"
+    ],
+    "0S000013": [
+        "\ucca0\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000014": [
+        "\ud638\ud154\uad00\uad11\ub300\ud559.\ud559\uc0ac\uacf5\uc9c0\uc0ac\ud56d",
+        "OFF"
+    ],
+    "0S000015": [
+        "\ud638\ud154\uad00\uad11\ub300\ud559.\uc7a5\ud559\uacf5\uc9c0\uc0ac\ud56d",
+        "OFF"
+    ],
+    "0S000016": [
+        "\ud638\ud154\uad00\uad11\ub300\ud559.\ud559\uacfc\uacf5\uc9c0\uc0ac\ud56d",
+        "OFF"
+    ],
+    "0S000017": [
+        "\ud638\ud154\uad00\uad11\ub300\ud559.\uc77c\ubc18\uacf5\uc9c0\uc0ac\ud56d",
+        "OFF"
+    ],
+    "0S000018": [
+        "\ubb34\uc6a9\ud559\ubd80",
+        "OFF"
+    ],
+    "0S000019": [
+        "\ubb34\uc6a9\ud559\ubd80.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "0S000020": [
+        "\uc57d\ud559\ub300\ud559",
+        "OFF"
+    ],
+    "0S000021": [
+        "\ubbf8\uc220\ub300\ud559",
+        "OFF"
+    ],
+    "0S000022": [
+        "\uc74c\uc545\ub300\ud559",
+        "OFF"
+    ],
+    "0S000023": [
+        "\uc74c\uc545\ub300\ud559.\uc790\uc720\uac8c\uc2dc\ud310",
+        "OFF"
+    ],
+    "0S000024": [
+        "\uc774\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "0S000025": [
+        "\uc774\uacfc\ub300\ud559.\ucde8\uc5c5/\ucc3d\uc5c5",
+        "OFF"
+    ],
+    "0S000026": [
+        "\uc774\uacfc\ub300\ud559.\uc5f0\uad6c/\uc138\ubbf8\ub098",
+        "OFF"
+    ],
+    "0S000027": [
+        "\uc774\uacfc\ub300\ud559.\uc7a5\ud559",
+        "OFF"
+    ],
+    "0S000028": [
+        "\uc218\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000029": [
+        "\uc218\ud559\uacfc.\uc7a5\ud559",
+        "OFF"
+    ],
+    "0S000030": [
+        "\uc218\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000031": [
+        "\uc218\ud559\uacfc.\uacf5\ubaa8\uc804/\ub300\uc678\ud65c\ub3d9/\uae30\ud0c0",
+        "OFF"
+    ],
+    "0S000032": [
+        "\ud654\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000033": [
+        "\uc0dd\ubb3c\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000034": [
+        "\uc0dd\ubb3c\ud559\uacfc.\ud559\uacfc\uc18c\uc2dd(NEWS)",
+        "OFF"
+    ],
+    "0S000035": [
+        "\uc0dd\ubb3c\ud559\uacfc.\uc138\ubbf8\ub098/\ud2b9\uac15",
+        "OFF"
+    ],
+    "0S000036": [
+        "\uc0dd\ubb3c\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000037": [
+        "\uc815\ubcf4\ub514\uc2a4\ud50c\ub808\uc774\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000038": [
+        "\uc9c0\ub9ac\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000039": [
+        "\uc9c0\ub9ac\ud559\uacfc.\ucde8\uc5c5\uacf5\uc9c0",
+        "OFF"
+    ],
+    "0S000040": [
+        "\uc9c0\ub9ac\ud559\uacfc.\uc7a5\ud559\uacf5\uc9c0",
+        "OFF"
+    ],
+    "0S000041": [
+        "\ubb3c\ub9ac\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000042": [
+        "\uc815\uacbd\ub300\ud559",
+        "OFF"
+    ],
+    "0S000043": [
+        "\uc815\uacbd\ub300\ud559.\uc7a5\ud559\uc548\ub0b4",
+        "OFF"
+    ],
+    "0S000044": [
+        "\uc815\uacbd\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000045": [
+        "\uc815\uce58\uc678\uad50\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000046": [
+        "\uc815\uce58\uc678\uad50\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000047": [
+        "\ud589\uc815\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000048": [
+        "\uc0ac\ud68c\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000049": [
+        "\ubbf8\ub514\uc5b4\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000050": [
+        "\ubbf8\ub514\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000051": [
+        "\uacbd\uc81c\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000052": [
+        "\uacbd\uc81c\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000053": [
+        "\uacbd\uc81c\ud559\uacfc.\uc7a5\ud559\uc815\ubcf4",
+        "OFF"
+    ],
+    "0S000054": [
+        "\ubb34\uc5ed\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000055": [
+        "\ubb34\uc5ed\ud559\uacfc.\uc7a5\ud559\ubc0f\ud64d\ubcf4",
+        "OFF"
+    ],
+    "0S000056": [
+        "\uad6d\uc81c\ud1b5\uc0c1-\uae08\uc735\ud22c\uc790\ud559\ubd80",
+        "OFF"
+    ],
+    "0S000057": [
+        "\uad6d\uc81c\ud1b5\uc0c1-\uae08\uc735\ud22c\uc790\ud559\ubd80.\uc7a5\ud559\ubc0f\ud64d\ubcf4",
+        "OFF"
+    ],
+    "0S000058": [
+        "\uc758\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "0S000059": [
+        "\uc758\uacfc\ub300\ud559.\uc0c8\uc18c\uc2dd",
+        "OFF"
+    ],
+    "0S000060": [
+        "\ud55c\uc758\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "0S000061": [
+        "\uce58\uacfc\ub300\ud559",
+        "OFF"
+    ],
+    "0S000062": [
+        "\uac04\ud638\uacfc\ud559\ub300\ud559",
+        "OFF"
+    ],
+    "0S000063": [
+        "\uc0dd\ud65c\uacfc\ud559\ub300\ud559",
+        "OFF"
+    ],
+    "0S000064": [
+        "\uc544\ub3d9\uac00\uc871\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000065": [
+        "\uc8fc\uac70\ud658\uacbd\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000066": [
+        "\uc758\uc0c1\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000067": [
+        "\uc2dd\ud488\uc601\uc591\ud559\uacfc",
+        "OFF"
+    ],
+    "0S000068": [
+        "\uacbd\uc601\ub300\ud559",
+        "OFF"
+    ],
+    "0S000069": [
+        "\uc790\uc5f0\uc0ac\ubc15\ubb3c\uad00",
+        "OFF"
+    ],
+    "0S000070": [
+        "\uc911\uc559\ubc15\ubb3c\uad00",
+        "OFF"
+    ],
+    "0S000071": [
+        "\ud3c9\ud654\ubcf5\uc9c0\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000072": [
+        "\uad6d\uc81c\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000073": [
+        "\ubbf8\ub514\uc5b4\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000074": [
+        "\ubc95\ud559\uc804\ubb38\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000075": [
+        "\uac04\ud638\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000076": [
+        "\uce58\uacfc\ub300\ud559-\uc77c\ubc18\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000077": [
+        "\uad50\uc721\ub300\ud559\uc6d0(\uc11c\uc6b8)",
+        "OFF"
+    ],
+    "0S000078": [
+        "\uad50\uc721\ub300\ud559\uc6d0(\uad6d\uc81c)",
+        "OFF"
+    ],
+    "0S000079": [
+        "\uacf5\uacf5\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000080": [
+        "\uacbd\uc601\ub300\ud559\uc6d0",
+        "OFF"
+    ],
+    "0S000081": [
+        "\ud589\ubcf5\uae30\uc219\uc0ac",
+        "OFF"
+    ],
+    "0S000082": [
+        "\uc138\ud654\uc6d0",
+        "OFF"
+    ],
+    "0S000083": [
+        "\uc0dd\ud65c\ud611\ub3d9\uc870\ud569(\uc11c\uc6b8).\uc8fc\uac04\uc2dd\ub2f9\uba54\ub274",
+        "OFF"
+    ],
+    "BLUELETR": [
+        "BLUE.LETTER",
+        "OFF"
+    ],
+    "SCHEDULED": [
+        {
+            "TITLE": "장애 공지",
+            "MESSAGE": "2022년 7월 2일과 7월 9일 서버 점검으로 서비스가 잠시 중단됩니다",
+            "URL": "",
+            "BEGIN": "2022-06-16T09:00:00.000000",
+            "END": "2022-07-09T24:00:00.000000",
+            "ENABLED": "ON",
+            "TARGET" : "20220616"
+        }
+    ]
+}

@@ -1,0 +1,911 @@
+{
+	"UPDATED": "2022-06-16T09:42:50.999643",
+	"NUMDEPARTMENTS": "181",
+	"DEPARTMENTS": [
+		{
+			"INDEX": "00000001",
+			"TITLE": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940130"
+		},
+		{
+			"INDEX": "00000002",
+			"TITLE": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940245"
+		},
+		{
+			"INDEX": "00000003",
+			"TITLE": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc911\uc2ec\ub300\ud559\uc0ac\uc5c5\ub2e8",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940348"
+		},
+		{
+			"INDEX": "00000004",
+			"TITLE": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc.\uc544\uace0\ub77c",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940515"
+		},
+		{
+			"INDEX": "00000005",
+			"TITLE": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc735\ud569\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940647"
+		},
+		{
+			"INDEX": "00000006",
+			"TITLE": "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940790"
+		},
+		{
+			"INDEX": "00000007",
+			"TITLE": "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.940947"
+		},
+		{
+			"INDEX": "00000008",
+			"TITLE": "\ucef4\ud4e8\ud130\uacf5\ud559\ubd80.\ud589\uc0ac",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.941183"
+		},
+		{
+			"INDEX": "00000009",
+			"TITLE": "\uc0b0\uc5c5\uacbd\uc601\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.941546"
+		},
+		{
+			"INDEX": "00000010",
+			"TITLE": "\uc0b0\uc5c5\uacbd\uc601\uacf5\ud559\uacfc.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.941706"
+		},
+		{
+			"INDEX": "00000011",
+			"TITLE": "\uae30\uacc4\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.941890"
+		},
+		{
+			"INDEX": "00000012",
+			"TITLE": "\uae30\uacc4\uacf5\ud559\uacfc.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942045"
+		},
+		{
+			"INDEX": "00000013",
+			"TITLE": "\uc77c\ubcf8\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942247"
+		},
+		{
+			"INDEX": "00000014",
+			"TITLE": "\uc77c\ubcf8\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942393"
+		},
+		{
+			"INDEX": "00000015",
+			"TITLE": "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942500"
+		},
+		{
+			"INDEX": "00000016",
+			"TITLE": "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942611"
+		},
+		{
+			"INDEX": "00000017",
+			"TITLE": "\uae00\ub85c\ubc8c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ud559\ubd80.\ud589\uc0ac",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942717"
+		},
+		{
+			"INDEX": "00000018",
+			"TITLE": "\ud559\uc0dd\ud68c\uad00(\uad6d\uc81c).\ud559\uc0dd\uc2dd\ub2f9",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942840"
+		},
+		{
+			"INDEX": "00000019",
+			"TITLE": "\uc6b0\uc815\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.942938"
+		},
+		{
+			"INDEX": "00000020",
+			"TITLE": "\uc81c2\uae30\uc219\uc0ac",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943036"
+		},
+		{
+			"INDEX": "00000021",
+			"TITLE": "\uc911\uc559\ub3c4\uc11c\uad00(\uad6d\uc81c)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943137"
+		},
+		{
+			"INDEX": "00000022",
+			"TITLE": "\uacf5\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943287"
+		},
+		{
+			"INDEX": "00000023",
+			"TITLE": "\uacf5\uacfc\ub300\ud559.\ucc44\uc6a9\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943442"
+		},
+		{
+			"INDEX": "00000024",
+			"TITLE": "\uc608\uc220\ub514\uc790\uc778\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943592"
+		},
+		{
+			"INDEX": "00000025",
+			"TITLE": "\uad6d\uc81c\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943740"
+		},
+		{
+			"INDEX": "00000026",
+			"TITLE": "\uad6d\uc81c\ub300\ud559.\ucc44\uc6a9.\uc778\ud134.\ud65c\ub3d9",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.943843"
+		},
+		{
+			"INDEX": "00000027",
+			"TITLE": "\uc751\uc6a9\uacfc\ud559\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944036"
+		},
+		{
+			"INDEX": "00000028",
+			"TITLE": "\uc751\uc6a9\uacfc\ud559\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944187"
+		},
+		{
+			"INDEX": "00000029",
+			"TITLE": "\uc804\uc790\uc815\ubcf4\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944293"
+		},
+		{
+			"INDEX": "00000030",
+			"TITLE": "\uc804\uc790\uc815\ubcf4\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944390"
+		},
+		{
+			"INDEX": "00000031",
+			"TITLE": "\uccb4\uc721\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944486"
+		},
+		{
+			"INDEX": "00000032",
+			"TITLE": "\uccb4\uc721\ub300\ud559.\ucc44\uc6a9\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944581"
+		},
+		{
+			"INDEX": "00000033",
+			"TITLE": "\uc678\uad6d\uc5b4\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944676"
+		},
+		{
+			"INDEX": "00000034",
+			"TITLE": "\uc678\uad6d\uc5b4\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944771"
+		},
+		{
+			"INDEX": "00000035",
+			"TITLE": "\ub300\ud559\uc8fc\ubcf4.\ud5e4\ub4dc\ub77c\uc778",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944866"
+		},
+		{
+			"INDEX": "00000036",
+			"TITLE": "\ub300\ud559\uc8fc\ubcf4.\uae30\ud68d",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.944960"
+		},
+		{
+			"INDEX": "00000037",
+			"TITLE": "\ub300\ud559\uc8fc\ubcf4.\uc0ac\uc124",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.945122"
+		},
+		{
+			"INDEX": "00000038",
+			"TITLE": "\ubbf8\ub798\ud601\uc2e0\uc6d0.\ud559\uc0dd\uc9c0\uc6d0\uc13c\ud130(\uc7a5\ud559)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.945278"
+		},
+		{
+			"INDEX": "00000039",
+			"TITLE": "\ubbf8\ub798\uc778\uc7ac\uc13c\ud130.\ucc44\uc6a9\uacf5\uace0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.957657"
+		},
+		{
+			"INDEX": "00000040",
+			"TITLE": "\ubbf8\ub798\uc778\uc7ac\uc13c\ud130.\ucd94\ucc9c\ucc44\uc6a9",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.957890"
+		},
+		{
+			"INDEX": "00000041",
+			"TITLE": "\uc0dd\uccb4\uc758\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.958013"
+		},
+		{
+			"INDEX": "00000042",
+			"TITLE": "\uc0dd\uccb4\uc758\uacf5\ud559\uacfc.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.958120"
+		},
+		{
+			"INDEX": "00000043",
+			"TITLE": "\uc804\uc790\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.958223"
+		},
+		{
+			"INDEX": "00000044",
+			"TITLE": "\uc804\uc790\uacf5\ud559\uacfc.\ucde8\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.971705"
+		},
+		{
+			"INDEX": "00000045",
+			"TITLE": "\uc804\uc790\uacf5\ud559\uacfc.\ud64d\ubcf4\ubc0f\ub300\uc678\ud65c\ub3d9",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.971914"
+		},
+		{
+			"INDEX": "00000046",
+			"TITLE": "\uc6b0\uc8fc\uacfc\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972024"
+		},
+		{
+			"INDEX": "00000047",
+			"TITLE": "\uc6b0\uc8fc\uacfc\ud559\uacfc.\uc7a5\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972129"
+		},
+		{
+			"INDEX": "00000048",
+			"TITLE": "\uc6b0\uc8fc\uacfc\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972232"
+		},
+		{
+			"INDEX": "00000049",
+			"TITLE": "\uc751\uc6a9\uc218\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972333"
+		},
+		{
+			"INDEX": "00000050",
+			"TITLE": "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972432"
+		},
+		{
+			"INDEX": "00000051",
+			"TITLE": "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc.\uc138\ubbf8\ub098/\ucf5c\ub85c\ud0a4\uc6c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972531"
+		},
+		{
+			"INDEX": "00000052",
+			"TITLE": "\uc751\uc6a9\ubb3c\ub9ac\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972629"
+		},
+		{
+			"INDEX": "00000053",
+			"TITLE": "\uc751\uc6a9\ud654\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972726"
+		},
+		{
+			"INDEX": "00000054",
+			"TITLE": "\uc751\uc6a9\ud654\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972822"
+		},
+		{
+			"INDEX": "00000055",
+			"TITLE": "\ud6c4\ub9c8\ub2c8\ud0c0\uc2a4\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.972917"
+		},
+		{
+			"INDEX": "00000056",
+			"TITLE": "\ud654\ud559\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973012"
+		},
+		{
+			"INDEX": "00000057",
+			"TITLE": "\ud654\ud559\uacf5\ud559\uacfc.\ucc44\uc6a9\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973107"
+		},
+		{
+			"INDEX": "00000058",
+			"TITLE": "\uc815\ubcf4\uc804\uc790\uc2e0\uc18c\uc7ac\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973202"
+		},
+		{
+			"INDEX": "00000059",
+			"TITLE": "\uc815\ubcf4\uc804\uc790\uc2e0\uc18c\uc7ac\uacf5\ud559\uacfc.\ucde8\uc5c5\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973298"
+		},
+		{
+			"INDEX": "00000060",
+			"TITLE": "\uc0ac\ud68c\uae30\ubc18\uc2dc\uc2a4\ud15c\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973392"
+		},
+		{
+			"INDEX": "00000061",
+			"TITLE": "\uc0ac\ud68c\uae30\ubc18\uc2dc\uc2a4\ud15c\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973487"
+		},
+		{
+			"INDEX": "00000062",
+			"TITLE": "\uac74\ucd95\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973580"
+		},
+		{
+			"INDEX": "00000063",
+			"TITLE": "\uac74\ucd95\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973673"
+		},
+		{
+			"INDEX": "00000064",
+			"TITLE": "\ud658\uacbd\ud559\ubc0f\ud658\uacbd\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973767"
+		},
+		{
+			"INDEX": "00000065",
+			"TITLE": "\ud658\uacbd\ud559\ubc0f\ud658\uacbd\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973861"
+		},
+		{
+			"INDEX": "00000066",
+			"TITLE": "\uac74\ucd95\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.973955"
+		},
+		{
+			"INDEX": "00000067",
+			"TITLE": "\uac74\ucd95\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974050"
+		},
+		{
+			"INDEX": "00000068",
+			"TITLE": "\uc6d0\uc790\ub825\uacf5\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974144"
+		},
+		{
+			"INDEX": "00000069",
+			"TITLE": "\uc6d0\uc790\ub825\uacf5\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974239"
+		},
+		{
+			"INDEX": "00000070",
+			"TITLE": "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974334"
+		},
+		{
+			"INDEX": "00000071",
+			"TITLE": "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974428"
+		},
+		{
+			"INDEX": "00000072",
+			"TITLE": "\uc911\uad6d\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974521"
+		},
+		{
+			"INDEX": "00000073",
+			"TITLE": "\ud55c\uad6d\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.974614"
+		},
+		{
+			"INDEX": "00000074",
+			"TITLE": "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.975729"
+		},
+		{
+			"INDEX": "00000075",
+			"TITLE": "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.976710"
+		},
+		{
+			"INDEX": "00000076",
+			"TITLE": "\uc911\uad6d\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.977775"
+		},
+		{
+			"INDEX": "00000077",
+			"TITLE": "\ud55c\uad6d\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.977963"
+		},
+		{
+			"INDEX": "00000078",
+			"TITLE": "\ud504\ub791\uc2a4\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.978079"
+		},
+		{
+			"INDEX": "00000079",
+			"TITLE": "\ub7ec\uc2dc\uc544\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.979018"
+		},
+		{
+			"INDEX": "00000080",
+			"TITLE": "\uc911\uad6d\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.979142"
+		},
+		{
+			"INDEX": "00000081",
+			"TITLE": "\ud55c\uad6d\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.979252"
+		},
+		{
+			"INDEX": "00000082",
+			"TITLE": "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.979356"
+		},
+		{
+			"INDEX": "00000083",
+			"TITLE": "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980211"
+		},
+		{
+			"INDEX": "00000084",
+			"TITLE": "\uc2a4\ud398\uc778\uc5b4\ud559\uacfc.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980324"
+		},
+		{
+			"INDEX": "00000085",
+			"TITLE": "\uc2a4\ub9c8\ud2b8\ud31c\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980427"
+		},
+		{
+			"INDEX": "00000086",
+			"TITLE": "\uc544\ud2b8\ud4e8\uc804\ub514\uc790\uc778\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980529"
+		},
+		{
+			"INDEX": "00000087",
+			"TITLE": "\uccb4\uc721\ub300\ud559\uc6d0.\uc911\uc694\uacf5\uc9c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980691"
+		},
+		{
+			"INDEX": "00000088",
+			"TITLE": "\uccb4\uc721\ub300\ud559\uc6d0.\uae30\ud0c0\uacf5\uc9c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980808"
+		},
+		{
+			"INDEX": "00000089",
+			"TITLE": "\ub3d9\uc11c\uc758\ud559\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.980911"
+		},
+		{
+			"INDEX": "00000090",
+			"TITLE": "\uc77c\ubc18\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.982627"
+		},
+		{
+			"INDEX": "00000091",
+			"TITLE": "\uad50\ubb34\ucc98-\uad50\uc9c1\ud300",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.982761"
+		},
+		{
+			"INDEX": "00000092",
+			"TITLE": "\uad6d\uc81c\uad50\uc721\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.982945"
+		},
+		{
+			"INDEX": "00000093",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\ud559\uc0ac)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.983147"
+		},
+		{
+			"INDEX": "00000094",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\uc77c\ubc18)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.984230"
+		},
+		{
+			"INDEX": "00000095",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\uc7a5\ud559)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.984411"
+		},
+		{
+			"INDEX": "00000096",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\uad50\ub0b4\ud559\uc810\uad50\ub958)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.984523"
+		},
+		{
+			"INDEX": "00000097",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\ud589\uc0ac)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.984667"
+		},
+		{
+			"INDEX": "00000098",
+			"TITLE": "\ub300\ud559\uc0dd\ud65c(\ud3ec\ucee4\uc2a4)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.984782"
+		},
+		{
+			"INDEX": "0S000001",
+			"TITLE": "\uc911\uc559\ub3c4\uc11c\uad00(\uc11c\uc6b8)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.985755"
+		},
+		{
+			"INDEX": "0S000002",
+			"TITLE": "\ubb38\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.985896"
+		},
+		{
+			"INDEX": "0S000003",
+			"TITLE": "\uad6d\uc5b4\uad6d\ubb38\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.986003"
+		},
+		{
+			"INDEX": "0S000004",
+			"TITLE": "\uc0ac\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.986127"
+		},
+		{
+			"INDEX": "0S000005",
+			"TITLE": "\uc601\uc5b4\uc601\ubb38\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.986290"
+		},
+		{
+			"INDEX": "0S000006",
+			"TITLE": "\uc751\uc6a9\uc601\uc5b4\ud1b5\ubc88\uc5ed\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987383"
+		},
+		{
+			"INDEX": "0S000007",
+			"TITLE": "\uc601\uc5b4\uc601\ubb38\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987565"
+		},
+		{
+			"INDEX": "0S000008",
+			"TITLE": "\uc751\uc6a9\uc601\uc5b4\ud1b5\ubc88\uc5ed\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987683"
+		},
+		{
+			"INDEX": "0S000009",
+			"TITLE": "\uc0ac\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987788"
+		},
+		{
+			"INDEX": "0S000010",
+			"TITLE": "\ubb38\uacfc\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987890"
+		},
+		{
+			"INDEX": "0S000011",
+			"TITLE": "\ubb38\uacfc\ub300\ud559.\uc7a5\ud559\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.987990"
+		},
+		{
+			"INDEX": "0S000012",
+			"TITLE": "\ubb38\uacfc\ub300\ud559.\ud559\uc0ac\uc18c\uc2dd",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.988860"
+		},
+		{
+			"INDEX": "0S000013",
+			"TITLE": "\ucca0\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989033"
+		},
+		{
+			"INDEX": "0S000014",
+			"TITLE": "\ud638\ud154\uad00\uad11\ub300\ud559.\ud559\uc0ac\uacf5\uc9c0\uc0ac\ud56d",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989160"
+		},
+		{
+			"INDEX": "0S000015",
+			"TITLE": "\ud638\ud154\uad00\uad11\ub300\ud559.\uc7a5\ud559\uacf5\uc9c0\uc0ac\ud56d",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989269"
+		},
+		{
+			"INDEX": "0S000016",
+			"TITLE": "\ud638\ud154\uad00\uad11\ub300\ud559.\ud559\uacfc\uacf5\uc9c0\uc0ac\ud56d",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989597"
+		},
+		{
+			"INDEX": "0S000017",
+			"TITLE": "\ud638\ud154\uad00\uad11\ub300\ud559.\uc77c\ubc18\uacf5\uc9c0\uc0ac\ud56d",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989709"
+		},
+		{
+			"INDEX": "0S000018",
+			"TITLE": "\ubb34\uc6a9\ud559\ubd80",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989811"
+		},
+		{
+			"INDEX": "0S000019",
+			"TITLE": "\ubb34\uc6a9\ud559\ubd80.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.989913"
+		},
+		{
+			"INDEX": "0S000020",
+			"TITLE": "\uc57d\ud559\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.990012"
+		},
+		{
+			"INDEX": "0S000021",
+			"TITLE": "\ubbf8\uc220\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.990109"
+		},
+		{
+			"INDEX": "0S000022",
+			"TITLE": "\uc74c\uc545\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.990205"
+		},
+		{
+			"INDEX": "0S000023",
+			"TITLE": "\uc74c\uc545\ub300\ud559.\uc790\uc720\uac8c\uc2dc\ud310",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991022"
+		},
+		{
+			"INDEX": "0S000024",
+			"TITLE": "\uc774\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991131"
+		},
+		{
+			"INDEX": "0S000025",
+			"TITLE": "\uc774\uacfc\ub300\ud559.\ucde8\uc5c5/\ucc3d\uc5c5",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991233"
+		},
+		{
+			"INDEX": "0S000026",
+			"TITLE": "\uc774\uacfc\ub300\ud559.\uc5f0\uad6c/\uc138\ubbf8\ub098",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991341"
+		},
+		{
+			"INDEX": "0S000027",
+			"TITLE": "\uc774\uacfc\ub300\ud559.\uc7a5\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991437"
+		},
+		{
+			"INDEX": "0S000028",
+			"TITLE": "\uc218\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991533"
+		},
+		{
+			"INDEX": "0S000029",
+			"TITLE": "\uc218\ud559\uacfc.\uc7a5\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991638"
+		},
+		{
+			"INDEX": "0S000030",
+			"TITLE": "\uc218\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991734"
+		},
+		{
+			"INDEX": "0S000031",
+			"TITLE": "\uc218\ud559\uacfc.\uacf5\ubaa8\uc804/\ub300\uc678\ud65c\ub3d9/\uae30\ud0c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991830"
+		},
+		{
+			"INDEX": "0S000032",
+			"TITLE": "\ud654\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.991926"
+		},
+		{
+			"INDEX": "0S000033",
+			"TITLE": "\uc0dd\ubb3c\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992041"
+		},
+		{
+			"INDEX": "0S000034",
+			"TITLE": "\uc0dd\ubb3c\ud559\uacfc.\ud559\uacfc\uc18c\uc2dd(NEWS)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992138"
+		},
+		{
+			"INDEX": "0S000035",
+			"TITLE": "\uc0dd\ubb3c\ud559\uacfc.\uc138\ubbf8\ub098/\ud2b9\uac15",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992234"
+		},
+		{
+			"INDEX": "0S000036",
+			"TITLE": "\uc0dd\ubb3c\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992330"
+		},
+		{
+			"INDEX": "0S000037",
+			"TITLE": "\uc815\ubcf4\ub514\uc2a4\ud50c\ub808\uc774\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992426"
+		},
+		{
+			"INDEX": "0S000038",
+			"TITLE": "\uc9c0\ub9ac\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992528"
+		},
+		{
+			"INDEX": "0S000039",
+			"TITLE": "\uc9c0\ub9ac\ud559\uacfc.\ucde8\uc5c5\uacf5\uc9c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992625"
+		},
+		{
+			"INDEX": "0S000040",
+			"TITLE": "\uc9c0\ub9ac\ud559\uacfc.\uc7a5\ud559\uacf5\uc9c0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992721"
+		},
+		{
+			"INDEX": "0S000041",
+			"TITLE": "\ubb3c\ub9ac\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992816"
+		},
+		{
+			"INDEX": "0S000042",
+			"TITLE": "\uc815\uacbd\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.992912"
+		},
+		{
+			"INDEX": "0S000043",
+			"TITLE": "\uc815\uacbd\ub300\ud559.\uc7a5\ud559\uc548\ub0b4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.993007"
+		},
+		{
+			"INDEX": "0S000044",
+			"TITLE": "\uc815\uacbd\ub300\ud559.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.993102"
+		},
+		{
+			"INDEX": "0S000045",
+			"TITLE": "\uc815\uce58\uc678\uad50\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.993235"
+		},
+		{
+			"INDEX": "0S000046",
+			"TITLE": "\uc815\uce58\uc678\uad50\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.994599"
+		},
+		{
+			"INDEX": "0S000047",
+			"TITLE": "\ud589\uc815\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.994745"
+		},
+		{
+			"INDEX": "0S000048",
+			"TITLE": "\uc0ac\ud68c\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.994858"
+		},
+		{
+			"INDEX": "0S000049",
+			"TITLE": "\ubbf8\ub514\uc5b4\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.994974"
+		},
+		{
+			"INDEX": "0S000050",
+			"TITLE": "\ubbf8\ub514\uc5b4\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995079"
+		},
+		{
+			"INDEX": "0S000051",
+			"TITLE": "\uacbd\uc81c\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995179"
+		},
+		{
+			"INDEX": "0S000052",
+			"TITLE": "\uacbd\uc81c\ud559\uacfc.\ucde8\uc5c5\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995278"
+		},
+		{
+			"INDEX": "0S000053",
+			"TITLE": "\uacbd\uc81c\ud559\uacfc.\uc7a5\ud559\uc815\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995378"
+		},
+		{
+			"INDEX": "0S000054",
+			"TITLE": "\ubb34\uc5ed\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995474"
+		},
+		{
+			"INDEX": "0S000055",
+			"TITLE": "\ubb34\uc5ed\ud559\uacfc.\uc7a5\ud559\ubc0f\ud64d\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995579"
+		},
+		{
+			"INDEX": "0S000056",
+			"TITLE": "\uad6d\uc81c\ud1b5\uc0c1-\uae08\uc735\ud22c\uc790\ud559\ubd80",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995713"
+		},
+		{
+			"INDEX": "0S000057",
+			"TITLE": "\uad6d\uc81c\ud1b5\uc0c1-\uae08\uc735\ud22c\uc790\ud559\ubd80.\uc7a5\ud559\ubc0f\ud64d\ubcf4",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995826"
+		},
+		{
+			"INDEX": "0S000058",
+			"TITLE": "\uc758\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.995928"
+		},
+		{
+			"INDEX": "0S000059",
+			"TITLE": "\uc758\uacfc\ub300\ud559.\uc0c8\uc18c\uc2dd",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996028"
+		},
+		{
+			"INDEX": "0S000060",
+			"TITLE": "\ud55c\uc758\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996135"
+		},
+		{
+			"INDEX": "0S000061",
+			"TITLE": "\uce58\uacfc\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996236"
+		},
+		{
+			"INDEX": "0S000062",
+			"TITLE": "\uac04\ud638\uacfc\ud559\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996332"
+		},
+		{
+			"INDEX": "0S000063",
+			"TITLE": "\uc0dd\ud65c\uacfc\ud559\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996450"
+		},
+		{
+			"INDEX": "0S000064",
+			"TITLE": "\uc544\ub3d9\uac00\uc871\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996560"
+		},
+		{
+			"INDEX": "0S000065",
+			"TITLE": "\uc8fc\uac70\ud658\uacbd\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996696"
+		},
+		{
+			"INDEX": "0S000066",
+			"TITLE": "\uc758\uc0c1\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996798"
+		},
+		{
+			"INDEX": "0S000067",
+			"TITLE": "\uc2dd\ud488\uc601\uc591\ud559\uacfc",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996894"
+		},
+		{
+			"INDEX": "0S000068",
+			"TITLE": "\uacbd\uc601\ub300\ud559",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.996988"
+		},
+		{
+			"INDEX": "0S000069",
+			"TITLE": "\uc790\uc5f0\uc0ac\ubc15\ubb3c\uad00",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997082"
+		},
+		{
+			"INDEX": "0S000070",
+			"TITLE": "\uc911\uc559\ubc15\ubb3c\uad00",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997184"
+		},
+		{
+			"INDEX": "0S000071",
+			"TITLE": "\ud3c9\ud654\ubcf5\uc9c0\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997385"
+		},
+		{
+			"INDEX": "0S000072",
+			"TITLE": "\uad6d\uc81c\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997501"
+		},
+		{
+			"INDEX": "0S000073",
+			"TITLE": "\ubbf8\ub514\uc5b4\ucee4\ubba4\ub2c8\ucf00\uc774\uc158\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997605"
+		},
+		{
+			"INDEX": "0S000074",
+			"TITLE": "\ubc95\ud559\uc804\ubb38\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.997704"
+		},
+		{
+			"INDEX": "0S000075",
+			"TITLE": "\uac04\ud638\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.998804"
+		},
+		{
+			"INDEX": "0S000076",
+			"TITLE": "\uce58\uacfc\ub300\ud559-\uc77c\ubc18\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.998927"
+		},
+		{
+			"INDEX": "0S000077",
+			"TITLE": "\uad50\uc721\ub300\ud559\uc6d0(\uc11c\uc6b8)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999040"
+		},
+		{
+			"INDEX": "0S000078",
+			"TITLE": "\uad50\uc721\ub300\ud559\uc6d0(\uad6d\uc81c)",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999140"
+		},
+		{
+			"INDEX": "0S000079",
+			"TITLE": "\uacf5\uacf5\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999237"
+		},
+		{
+			"INDEX": "0S000080",
+			"TITLE": "\uacbd\uc601\ub300\ud559\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999335"
+		},
+		{
+			"INDEX": "0S000081",
+			"TITLE": "\ud589\ubcf5\uae30\uc219\uc0ac",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999431"
+		},
+		{
+			"INDEX": "0S000082",
+			"TITLE": "\uc138\ud654\uc6d0",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999526"
+		},
+		{
+			"INDEX": "0S000083",
+			"TITLE": "\uc0dd\ud65c\ud611\ub3d9\uc870\ud569(\uc11c\uc6b8).\uc8fc\uac04\uc2dd\ub2f9\uba54\ub274",
+			"AGGREGATION_TIME": "2022-06-16T09:42:50.999629"
+		}
+	]
+}
