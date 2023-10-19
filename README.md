@@ -19,15 +19,15 @@ Web browser를 통한 접근은 아래의 링크를 클릭해서 경험할 수 �
 
 '경희의 오늘' 서버는 다음과 같은 4가지 종류의 서버로 구성되어 있습니다.<br>
 
-crawler : 크롤링 서버 <br>
-aggregator : 크롤링 서버 결과를 취합하여 DB에 저장하는 서버 <br>
-generator : DB에서 새로운 정보를 취합하여 App에 전달하는 형태로 재구성하는 서버 <br>
-reception-handler : gunicorn을 통하여 실행하는 app으로부터의 http request 처리 서버 <br>
+* crawler : 크롤링 서버 <br>
+* aggregator : 크롤링 서버 결과를 취합하여 DB에 저장하는 서버 <br>
+* generator : DB에서 새로운 정보를 취합하여 App에 전달하는 형태로 재구성하는 서버 <br>
+* reception-handler : gunicorn을 통하여 실행하는 app으로부터의 http request 처리 서버 <br>
 
 경희대학교 소프트웨어융합학과의 Full Stack Service Progamming 과목을 위하여 개발 되었습니다. <br>
 해당 수업에 대한 정보는 다음의 링크를 통해서 접근할 수 있습니다. <br>
 [http://mobilelab.khu.ac.kr/wordpress/fssp/](http://mobilelab.khu.ac.kr/wordpress/fssp/) <br>
 
 Client에 대한 오픈소스 소프트웨어는 다음의 링크에서 확인할 수 있습니다.  <br>
-[[https://github.com/drsungwon/khu-today-server](https://github.com/drsungwon/khu-today-server)] <br>
+[https://github.com/drsungwon/khu-today-server](https://github.com/drsungwon/khu-today-server) <br>
 
