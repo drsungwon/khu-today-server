@@ -10,7 +10,7 @@ Web browser를 통한 접근은 아래의 링크를 클릭해서 경험할 수 �
 
 (1) API #1 : 오늘 날자 정보
 
-* http://163.180.142.196:9090/today_api/today
+*http://163.180.142.196:9090/today_api/today
 
 (2) API #2 : 이전 정보
 
